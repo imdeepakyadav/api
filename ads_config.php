@@ -3,32 +3,32 @@
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
-      "placement_id": "\/21753324030,22723853531\/com.freelivevideocalling.girllivevideochat.pushpalivetalk.videorandomchat_Banner",
+      "placement_id": "ca-app-pub-3940256099942544/6300978111",
       "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
-      "placement_id": "\/21753324030,22723853531\/com.freelivevideocalling.girllivevideochat.pushpalivetalk.videorandomchat_Interstitial",
+      "placement_id": "ca-app-pub-3940256099942544/8691691433",
       "priority": "1",
       "counter": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
-      "placement_id": "\/21753324030,22723853531\/com.freelivevideocalling.girllivevideochat.pushpalivetalk.videorandomchat_Native",
+      "placement_id": "ca-app-pub-3940256099942544/2247696110",
       "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "RewardAd",
-      "placement_id": "\/21753324030,22723853531\/com.freelivevideocalling.girllivevideochat.pushpalivetalk.videorandomchat_Rewarded",
+      "placement_id": "ca-app-pub-3940256099942544/5354046379",
       "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "AppOpenAd",
-      "placement_id": "\/21753324030,22723853531\/com.freelivevideocalling.girllivevideochat.pushpalivetalk.videorandomchat_AppOpen",
+      "placement_id": "ca-app-pub-3940256099942544/3419835294",
       "priority": "1"
     }
   ],
