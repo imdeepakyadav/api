@@ -11,7 +11,7 @@
       "unit_type": "Interstitial",
       "placement_id": "/22810725888/com.livehindinewstvapp-interstitial",
       "priority": "1",
-      "counter": "5"
+      "counter": "1"
     },
     {
       "ad_network": "Admob",
