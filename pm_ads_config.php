@@ -9,7 +9,7 @@
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
-      "placement_id": "ca-app-pub-3940256099942544/8691691433",
+      "placement_id": "/22810725888/com.livehindinewstvapp-interstitial",
       "priority": "1",
       "counter": "5"
     },
