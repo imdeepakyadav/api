@@ -29,7 +29,7 @@
       "ad_network": "Admob",
       "unit_type": "AppOpenAd",
       "placement_id": "ca-app-pub-3940256099942544/3419835294",
-      "priority": "0"
+      "priority": "1"
     }
   ],
   "info": [
