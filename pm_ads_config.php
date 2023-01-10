@@ -4,7 +4,7 @@
       "ad_network": "Admob",
       "unit_type": "Banner",
       "placement_id": "ca-app-pub-3940256099942544/6300978111",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Admob",
