@@ -35,7 +35,7 @@
   "info": [
     {
       "type": "random_call_video",
-      "count": 50,
+      "count": 1,
       "is_show": "yes"
     }
   ]
