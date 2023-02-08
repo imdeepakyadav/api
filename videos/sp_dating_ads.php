@@ -10,7 +10,7 @@
       "ad_network": "Admob",
       "unit_type": "Interstitial",
       "placement_id": "/21753324030,22810725888/com.girlslivevideocalling.freelivevideochat.randomvideocall.app_Interstitial",
-      "priority": "0",
+      "priority": "1",
       "counter": "5"
     },
     {
@@ -23,7 +23,7 @@
       "ad_network": "Admob",
       "unit_type": "RewardAd",
       "placement_id": "/21753324030,22810725888/com.girlslivevideocalling.freelivevideochat.randomvideocall.app_Rewarded",
-      "priority": "0"
+      "priority": "1"
     },
     {
       "ad_network": "Admob",
