@@ -11,7 +11,7 @@
       "unit_type": "Interstitial",
       "placement_id": "/21753324030,22810725888/com.girlslivevideocalling.freelivevideochat.randomvideocall.app_Interstitial",
       "priority": "1",
-      "counter": "5"
+      "counter": "3"
     },
     {
       "ad_network": "Admob",
@@ -36,7 +36,7 @@
     {
       "type": "random_call_video",
       "count": "50",
-      "is_show": "yes"
+      "is_show": "no"
     }
   ]
 }
