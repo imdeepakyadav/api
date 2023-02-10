@@ -3,33 +3,33 @@
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
-      "placement_id": "ca-app-pub-3940256099942544/6300978111",
-      "priority": "0"
+      "placement_id": "/21753324030,22873600890/com.priyankamedia.girllivevideochat_Banner",
+      "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Interstitial",
-      "placement_id": "ca-app-pub-3940256099942544/1033173712",
-      "priority": "0",
+      "placement_id": "/21753324030,22873600890/com.priyankamedia.girllivevideochat_Interstitial",
+      "priority": "1",
       "counter": "3"
     },
     {
       "ad_network": "Admob",
       "unit_type": "Native",
-      "placement_id": "ca-app-pub-3940256099942544/2247696110",
-      "priority": "0"
+      "placement_id": "/21753324030,22873600890/com.priyankamedia.girllivevideochat_Native",
+      "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "RewardAd",
-      "placement_id": "ca-app-pub-3940256099942544/5354046379",
-      "priority": "0"
+      "placement_id": "/21753324030,22873600890/com.priyankamedia.girllivevideochat_Rewarded",
+      "priority": "1"
     },
     {
       "ad_network": "Admob",
       "unit_type": "AppOpenAd",
-      "placement_id": "ca-app-pub-3940256099942544/3419835294",
-      "priority": "0"
+      "placement_id": "/21753324030,22873600890/com.priyankamedia.girllivevideochat_AppOpen",
+      "priority": "1"
     }
   ],
   "info": [
