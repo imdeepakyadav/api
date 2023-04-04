@@ -39,4 +39,12 @@
       "is_show": "no"
     }
   ]
+"rtc_api": [
+    {
+      "rtc_provider": "agora",
+      "rtc_app_id": "8079664ca5fe4cb086b4dd11bd948176",
+      "rtc_cert": "34b5846cbdf14a6e85d9ae4601e119ab",
+      "channel_name": "randomcall"
+    }
+  ]
 }
