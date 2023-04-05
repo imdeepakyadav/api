@@ -11,7 +11,7 @@
       "unit_type": "Interstitial",
       "placement_id": "ca-app-pub-9197831434269235/3461083265",
       "priority": "1",
-      "counter": "2"
+      "counter": "1"
     },
     {
       "ad_network": "Admob",
