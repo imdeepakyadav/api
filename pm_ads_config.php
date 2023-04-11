@@ -1,4 +1,5 @@
-{"ad_ids": [
+{
+    "ad_ids": [
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
