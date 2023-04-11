@@ -1,5 +1,4 @@
-{
-  "ad_ids": [
+{"ad_ids": [
     {
       "ad_network": "Admob",
       "unit_type": "Banner",
@@ -30,6 +29,25 @@
       "unit_type": "AppOpenAd",
       "placement_id": "/21753324030,22873600890/com.priyankamedia.girllivevideochat_AppOpen",
       "priority": "1"
+    },
+    {
+      "ad_network": "Applovin",
+      "unit_type": "Banner",
+      "placement_id": "d2ddb04e82bcb535",
+      "priority": "0"
+    },
+    {
+      "ad_network": "Applovin",
+      "unit_type": "Interstitial",
+      "placement_id": "3d33a0ad69cc8005",
+      "priority": "0",
+      "counter": "2"
+    },
+    {
+      "ad_network": "Applovin",
+      "unit_type": "Native",
+      "placement_id": "46994f692d802e41",
+      "priority": "0"
     }
   ],
   "info": [
