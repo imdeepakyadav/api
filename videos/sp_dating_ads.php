@@ -45,5 +45,5 @@
       "rtc_app_id": "4d4b31da413f42e08394ab03b9f61938",
       "rtc_cert": "04b27a3359e24c3d9b5152fe8515a2b0",
       "channel_name": "randomvideocall"
-    },
+    }
 }
