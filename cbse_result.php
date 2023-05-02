@@ -42,13 +42,13 @@
   "info": [
     {
       "url_type": "tenth",
-      "result_url": "http://google.com",
-      "udpates_url": "http://google.com"
+      "result_10th": "http://google.com",
+      "udpates_10th": "http://google.com"
     },
   {
       "url_type": "twelth",
-      "result_url": "http://google.com",
-      "udpates_url": "http://google.com"
+      "result_12th": "http://google.com",
+      "updates_12th": "http://google.com"
     }
   ]
 }
