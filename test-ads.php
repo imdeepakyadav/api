@@ -53,9 +53,14 @@
   ],
   "info": [
     {
-      "type": "random_call_video",
-      "count": 50,
-      "is_show": "yes"
+      "url_type": "tenth",
+      "result_url": "http://google.com",
+      "udpates_url": "http://google.com"
+    },
+  {
+      "url_type": "twelth",
+      "result_url": "http://google.com",
+      "udpates_url": "http://google.com"
     }
   ],
 "webrtc": [
