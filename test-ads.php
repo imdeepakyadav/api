@@ -20,18 +20,6 @@
       "priority": "1"
     },
     {
-      "ad_network": "Admob",
-      "unit_type": "RewardAd",
-      "placement_id": "ca-app-pub-3940256099942544/5224354917",
-      "priority": "1"
-    },
-    {
-      "ad_network": "Admob",
-      "unit_type": "AppOpenAd",
-      "placement_id": "ca-app-pub-3940256099942544/3419835294",
-      "priority": "1"
-    },
-    {
       "ad_network": "AppLovin",
       "unit_type": "Banner",
       "placement_id": "1bd61e010479c716",
