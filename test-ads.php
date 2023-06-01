@@ -11,7 +11,7 @@
       "unit_type": "Interstitial",
       "placement_id": "ca-app-pub-3940256099942544/1033173712",
       "priority": "1",
-      "counter": "3"
+      "counter": "1"
     },
     {
       "ad_network": "Admob",
@@ -20,43 +20,50 @@
       "priority": "1"
     },
     {
+      "ad_network": "Admob",
+      "unit_type": "RewardAd",
+      "placement_id": "ca-app-pub-3940256099942544/5224354917",
+      "priority": "1"
+    },
+    {
+      "ad_network": "Admob",
+      "unit_type": "AppOpenAd",
+      "placement_id": "ca-app-pub-3940256099942544/3419835294",
+      "priority": "1"
+    },
+    {
       "ad_network": "AppLovin",
       "unit_type": "Banner",
-      "placement_id": "1bd61e010479c716",
+      "placement_id": "34889faef11d011b",
       "priority": "0"
     },
     {
       "ad_network": "AppLovin",
       "unit_type": "Interstitial",
-      "placement_id": "197f5ba608c27d44",
+      "placement_id": "e287a2365b538a7e",
       "priority": "0",
-      "counter": "1"
+      "counter": "3"
     },
     {
       "ad_network": "AppLovin",
       "unit_type": "Native",
-      "placement_id": "697c0a91e00756ca",
+      "placement_id": "5d48693a6853f74c",
       "priority": "0"
     }
   ],
   "info": [
     {
-      "url_type": "tenth",
-      "result_url": "http://google.com",
-      "udpates_url": "http://google.com"
-    },
-  {
-      "url_type": "twelth",
-      "result_url": "http://google.com",
-      "udpates_url": "http://google.com"
+      "type": "random_call_video",
+      "count": 50,
+      "is_show": "yes"
     }
   ],
-"webrtc": [
+  "webrtc": [
     {
       "provider": "agora",
-      "app_id": "4d4b31da413f42e08394ab03b9f61938",
-      "certificate": "04b27a3359e24c3d9b5152fe8515a2b0",
-      "channel": "randomvideocall"
+      "app_id": "8079664ca5fe4cb086b4dd11bd948176",
+      "certificate": "34b5846cbdf14a6e85d9ae4601e119ab",
+      "channel": "deepcall"
     }
   ]
 }
