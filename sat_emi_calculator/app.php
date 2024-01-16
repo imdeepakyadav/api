@@ -34,20 +34,20 @@
     {
       "ad_network": "Meta",
       "unit_type": "Banner",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "780522353408811_780526990075014",
       "priority": "1"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Interstitial",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "780522353408811_780527120075001",
       "priority": "1",
       "counter": "1"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Native",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "780522353408811_780527313408315",
       "priority": "1"
     },
     {
