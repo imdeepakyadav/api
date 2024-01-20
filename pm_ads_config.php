@@ -35,20 +35,20 @@
       "ad_network": "Applovin",
       "unit_type": "Banner",
       "placement_id": "d2ddb04e82bcb535",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Applovin",
       "unit_type": "Interstitial",
       "placement_id": "3d33a0ad69cc8005",
-      "priority": "1",
+      "priority": "0",
       "counter": "1"
     },
     {
       "ad_network": "Applovin",
       "unit_type": "Native",
       "placement_id": "46994f692d802e41",
-      "priority": "1"
+      "priority": "0"
     }
   ],
   "info": [
