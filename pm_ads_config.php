@@ -53,7 +53,7 @@
 	{
       "ad_network": "StartApp",
       "unit_type": "StartAppAds",
-      "priority": "0"
+      "priority": "1"
     }
   ],
   "info": [
