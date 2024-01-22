@@ -49,6 +49,11 @@
       "unit_type": "Native",
       "placement_id": "46994f692d802e41",
       "priority": "0"
+    },
+	{
+      "ad_network": "StartApp",
+      "unit_type": "StartAppAds",
+      "priority": "0"
     }
   ],
   "info": [
