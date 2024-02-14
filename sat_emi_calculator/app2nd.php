@@ -35,20 +35,20 @@
       "ad_network": "Meta",
       "unit_type": "Banner",
       "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Interstitial",
       "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "priority": "1",
-      "counter": "1"
+      "counter": "0"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Native",
       "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "priority": "1"
+      "priority": "0"
     },
     {
       "ad_network": "AppLovin",
