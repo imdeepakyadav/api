@@ -34,15 +34,15 @@
     {
       "ad_network": "Meta",
       "unit_type": "Banner",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "priority": "0"
+      "placement_id": "759787482385124_759788029051736",
+      "priority": "1"
     },
     {
       "ad_network": "Meta",
       "unit_type": "Interstitial",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "759787482385124_759788172385055",
       "priority": "1",
-      "counter": "0"
+      "counter": "1"
     },
     {
       "ad_network": "Meta",
