@@ -47,7 +47,7 @@
     {
       "ad_network": "Meta",
       "unit_type": "Native",
-      "placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "placement_id": "966000748426151_966004395092453",
       "priority": "0"
     },
     {
