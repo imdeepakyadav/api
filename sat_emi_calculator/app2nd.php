@@ -48,7 +48,7 @@
       "ad_network": "Meta",
       "unit_type": "Native",
       "placement_id": "966000748426151_966004395092453",
-      "priority": "0"
+      "priority": "1"
     },
     {
       "ad_network": "AppLovin",
