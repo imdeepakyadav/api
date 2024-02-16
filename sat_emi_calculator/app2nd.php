@@ -47,7 +47,7 @@
     {
       "ad_network": "Meta",
       "unit_type": "Native",
-      "placement_id": "966000748426151_966004395092453",
+      "placement_id": "759787482385124_760282252335647",
       "priority": "1"
     },
     {
